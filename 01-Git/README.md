@@ -4,6 +4,8 @@
 
 ➹：[GIT团队协作开发](http://www.javascriptpeixun.cn/course/1428)
 
+➹：[猴子都能懂的GIT入门 - 贝格乐（Backlog）](https://backlog.com/git-tutorial/cn/)
+
 ## ★目录
 
 - [01-集中式对比分布式](./01.md)
