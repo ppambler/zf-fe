@@ -26,3 +26,7 @@ p strong, li strong {
 p strong:hover {
     background-size: 100% 3px;
 }
+
+h1+table {
+    margin-bottom: -16px !important;
+}
