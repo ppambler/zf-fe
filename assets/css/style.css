@@ -29,4 +29,5 @@ p strong:hover {
 
 h1+table {
     margin-bottom: -16px !important;
+    font-weight: 500;
 }
